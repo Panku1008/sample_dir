@@ -1,0 +1,1 @@
+ This is a sample file for Git workshop. We will make some edits to learn it.
